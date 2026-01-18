@@ -7,6 +7,7 @@ class Solution(object):
             ans= ans + newBottles
             numBottles = newBottles+ remBottles
         return ans
+    
 
 # Example usage:
 numBottles = 9  
